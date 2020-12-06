@@ -16,9 +16,13 @@ Serial Monitor
 
 Pin Assignments:
 
+![potentiometer](https://user-images.githubusercontent.com/73819172/101276214-23f1ff80-37e6-11eb-8c8a-d235f39f7442.jpeg)
 
+VCC - 5V
 
-The middle leg of the potentiometer will be connected to A0 of Arduino UNO
+GND - GND
+
+Signal - A0
 
 # Code the program
 
