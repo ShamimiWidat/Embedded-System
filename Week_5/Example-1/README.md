@@ -16,7 +16,7 @@ Serial Monitor
 
 Pin Assignments:
 
-![](Embedded-System/Week_5/Example-1/potentiometer.jpeg)
+
 
 The middle leg of the potentiometer will be connected to A0 of Arduino UNO
 
