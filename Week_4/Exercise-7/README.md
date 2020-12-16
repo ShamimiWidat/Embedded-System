@@ -28,7 +28,7 @@ GND = All LEDs' cathode legs
 
 The resistor shall be put in between the GND and LED's cathode legs
 
-![](Embedded-System/Week_4/Exercise-7/on-off-lled-schematic.PNG)
+![on-off-lled-schematic](https://user-images.githubusercontent.com/73819172/102363753-ab165300-3ff0-11eb-988e-2b876d4946e9.PNG)
 
 
 Note that this experiment can still be done with different type of Arduino, LEDs and resistors by modifying the pin assignment and value:
