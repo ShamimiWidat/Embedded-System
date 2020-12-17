@@ -1,4 +1,4 @@
-# Theoritical frequency for generated PWM signal 2.0
+# Theoritical frequency for generated PWM signal 1.0
 
 This code produce a PWM signal with 50% duty cycle on Channel B of timer 0.
 
