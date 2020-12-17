@@ -22,6 +22,8 @@ Serial Monitor
 
 Pin Assignments:
 
+![button-schematic](https://user-images.githubusercontent.com/73819172/102446492-e18fb480-4068-11eb-95ad-c19904a5f46e.PNG)
+
 D3  = PB 1's anode leg
 
 D4  = PB 2's anode leg
