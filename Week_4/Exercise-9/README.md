@@ -22,6 +22,8 @@ Guidances to be refered have been attached such as code, picture, video and sche
 
 Pin Assignments:
 
+![8-led-schematic](https://user-images.githubusercontent.com/73819172/102447504-05ec9080-406b-11eb-81c9-c26e9859dec1.PNG)
+
 D2  = LED 1's anode leg
 
 D3  = LED 2's anode leg
