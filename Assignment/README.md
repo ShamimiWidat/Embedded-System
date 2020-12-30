@@ -1,4 +1,4 @@
-
+![block diagram](https://user-images.githubusercontent.com/73819172/103340336-be302500-4abe-11eb-9e20-78afc8df7959.PNG)
 
 There will be four inputs for the project. There will be count and total instructions to calculate the amount of ball have been taken for each player and for the whole game respectively.
 
